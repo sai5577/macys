@@ -1,2 +1,2 @@
 # macys
-to understand the project 
+to understand the project of git commands
